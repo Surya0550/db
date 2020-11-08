@@ -92,6 +92,8 @@
     }
   ],
   "properties": [
-    { "id": 1, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest" }
+    { "id": 1, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest" },
+    { "id": 2, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest" },
+    { "id": 3, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest" }
   ]
 }
