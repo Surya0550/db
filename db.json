@@ -92,8 +92,8 @@
     }
   ],
   "properties": [
-    { "id": 1, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest", "image": "vasavi_lake_city_normal.jpeg" },
-    { "id": 2, "name": "Ambience", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest", "image": "Main_View_Ambience_Courtyard.png" },
-    { "id": 3, "name": "Hallmark", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest", "image": "Main_entrance_hallmark.png" }
+    { "id": 1, "name": "Vasavi", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest", "images": ["vasavi_lake_city_normal.jpeg", "vjdv.jpg", "vjbdjvbdjbv.png"] },
+    { "id": 2, "name": "Ambience", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest", "images": ["Main_View_Ambience_Courtyard.png", "ugfhbv.jpg", "vjbfvjb.png"] },
+    { "id": 3, "name": "Hallmark", "address": "Rest, Hyd, 500085", "name_b": "R_Vasavi", "type": "build", "status": "Rest_A", "area": "R Acres", "description": "From Rest", "images": ["Main_entrance_hallmark.png", "vbfvjhbf.jpg", "vjnfvn.png"] }
   ]
 }
